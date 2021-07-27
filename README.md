@@ -3,6 +3,8 @@
 
 ### Teste 
 - ja que usei apenas CSS e flexbox, não vi dificuldades, abaixo explico com mais 
+- criei outra arquivo CSS para não deixar meu HTML "sujo".
+
 detalhes o desenvolvimento.
 	
 	creio que sejam erros: 
