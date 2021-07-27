@@ -2,7 +2,7 @@
 # bn-teste-customizacao-componentes
 
 ### Teste 
-- ja que usei apenas CSS e flexbox, não vi dificuldades, abaixo explico com mais 
+- ja que usei apenas CSS e flexbox, não vi dificuldades, abaixo explico mais.
 - criei outra arquivo CSS para não deixar meu HTML "sujo".
 
 detalhes o desenvolvimento.
